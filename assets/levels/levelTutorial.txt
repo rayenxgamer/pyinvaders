@@ -1,0 +1,1 @@
+pos = 10 1000, texture = "assets/special/python.png", health = 300

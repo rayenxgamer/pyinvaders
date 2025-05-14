@@ -1,0 +1,8 @@
+pos = 78 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 146 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 214 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 282 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 350 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 418 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 486 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
+pos = 554 10, texture = "assets/enemies/bug_darkGreen.png", health = 100
